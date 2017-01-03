@@ -17,6 +17,12 @@
 3. Launch Command prompt and navigate to the folder containing .exe file generated in step 2.
 4. Enter: FunctionAdditiveChecker <parameter> 
 
+OR
+
+1. Navigate to C:\SFAdditiveChecker-master\SFAdditiveChecker-master\FunctionAdditiveChecker\FunctionAdditiveChecker\bin\Debug
+Assuming project is downloaded to C drive
+
+2. Enter FunctionAdditiveChecker <parameter>
 ********** Sample Run **********
 Input:
 FunctionAdditiveChecker 158
