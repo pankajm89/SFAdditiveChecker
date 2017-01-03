@@ -1,0 +1,6 @@
+C:\Users\panka\onedrive\documents\visual studio 2015\Projects\FunctionAdditiveChecker\FunctionAdditiveChecker\bin\Debug\FunctionAdditiveChecker.exe.config
+C:\Users\panka\onedrive\documents\visual studio 2015\Projects\FunctionAdditiveChecker\FunctionAdditiveChecker\bin\Debug\FunctionAdditiveChecker.exe
+C:\Users\panka\onedrive\documents\visual studio 2015\Projects\FunctionAdditiveChecker\FunctionAdditiveChecker\bin\Debug\FunctionAdditiveChecker.pdb
+C:\Users\panka\onedrive\documents\visual studio 2015\Projects\FunctionAdditiveChecker\FunctionAdditiveChecker\obj\Debug\FunctionAdditiveChecker.exe
+C:\Users\panka\onedrive\documents\visual studio 2015\Projects\FunctionAdditiveChecker\FunctionAdditiveChecker\obj\Debug\FunctionAdditiveChecker.pdb
+C:\Users\panka\onedrive\documents\visual studio 2015\Projects\FunctionAdditiveChecker\FunctionAdditiveChecker\obj\Debug\FunctionAdditiveChecker.csprojResolveAssemblyReference.cache

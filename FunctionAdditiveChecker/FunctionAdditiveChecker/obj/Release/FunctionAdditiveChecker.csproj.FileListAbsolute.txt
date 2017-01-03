@@ -1,0 +1,5 @@
+C:\Users\panka\onedrive\documents\visual studio 2015\Projects\FunctionAdditiveChecker\FunctionAdditiveChecker\bin\Release\FunctionAdditiveChecker.exe.config
+C:\Users\panka\onedrive\documents\visual studio 2015\Projects\FunctionAdditiveChecker\FunctionAdditiveChecker\bin\Release\FunctionAdditiveChecker.exe
+C:\Users\panka\onedrive\documents\visual studio 2015\Projects\FunctionAdditiveChecker\FunctionAdditiveChecker\bin\Release\FunctionAdditiveChecker.pdb
+C:\Users\panka\onedrive\documents\visual studio 2015\Projects\FunctionAdditiveChecker\FunctionAdditiveChecker\obj\Release\FunctionAdditiveChecker.exe
+C:\Users\panka\onedrive\documents\visual studio 2015\Projects\FunctionAdditiveChecker\FunctionAdditiveChecker\obj\Release\FunctionAdditiveChecker.pdb

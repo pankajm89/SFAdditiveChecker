@@ -1,0 +1,8 @@
+C:\Users\panka\onedrive\documents\visual studio 2015\Projects\FunctionAdditiveChecker\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+C:\Users\panka\onedrive\documents\visual studio 2015\Projects\FunctionAdditiveChecker\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+C:\Users\panka\onedrive\documents\visual studio 2015\Projects\FunctionAdditiveChecker\UnitTestProject1\bin\Debug\FunctionAdditiveChecker.exe
+C:\Users\panka\onedrive\documents\visual studio 2015\Projects\FunctionAdditiveChecker\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\panka\onedrive\documents\visual studio 2015\Projects\FunctionAdditiveChecker\UnitTestProject1\bin\Debug\FunctionAdditiveChecker.pdb
+C:\Users\panka\onedrive\documents\visual studio 2015\Projects\FunctionAdditiveChecker\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+C:\Users\panka\onedrive\documents\visual studio 2015\Projects\FunctionAdditiveChecker\UnitTestProject1\obj\Debug\UnitTestProject1.pdb
+C:\Users\panka\onedrive\documents\visual studio 2015\Projects\FunctionAdditiveChecker\UnitTestProject1\obj\Debug\PrimeNumberGenerator.csprojResolveAssemblyReference.cache
